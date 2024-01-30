@@ -1,3 +1,7 @@
+This is serving as the code I use for a temperature sensor project with Arduino
+
+
+
 #include "DHT.h"
 #include <LiquidCrystal.h>
 
