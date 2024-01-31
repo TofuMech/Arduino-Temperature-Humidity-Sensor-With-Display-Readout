@@ -1,5 +1,4 @@
-This is serving as the code I use for a temperature sensor project with Arduino
-
+                                                                                        Code used for a temperature and humidity sensor module (DHT11) and 1602 lcd display.  
 
 
 #include "DHT.h"
