@@ -1,4 +1,4 @@
-                                                                                        Code used for a temperature and humidity sensor module (DHT11) and 1602 lcd display.  
+                      Code used for a temperature and humidity sensor module (DHT11) and 1602 lcd display.  
 
 
 #include "DHT.h"
